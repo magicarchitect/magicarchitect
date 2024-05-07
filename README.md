@@ -1,19 +1,5 @@
 ## Hello World 🤔 mi nombre es Miguel Pérez (MagicArchitect)👋
 ### Freelance Software Engineer full-stack Angular, Flutter, Python & NodeJS, PHP API Rest Frameworks
-<!--
-**magicarchitect/magicarchitect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Soy Ingeniero de Software profesional desde 1998.⚡
 
@@ -31,4 +17,6 @@ Y mi pasión es el mundo de la Gamificación y del desarrollo de Vídeojuegos co
 
 ### Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/linked_in-miguel_perez_perez?style=flat&logo=linkedin&labelColor=%23151515&color=%230076b8)](https://www.linkedin.com/in/miguelperezperez)
+[![Twitter X](https://img.shields.io/badge/x-miguel_perez_perez?style=flat&logo=linkedin&labelColor=%23151515&color=%230076b8)](https://twitter.com/MikeAceGameDev)
+
 
