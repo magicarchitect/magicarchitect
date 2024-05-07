@@ -15,7 +15,8 @@ En proyectos de software, la mayor parte del tiempo:
 También gestiono equipos multi-disciplinares, tanto locales como world-wide (en inglés).
 
 ### Apasionado por el GameDev y la Gamificación
-Y mi pasión es el mundo de la Gamificación y del desarrollo de Vídeojuegos con Backend, pasión que me ha llevado a crear una plataforma de gamificación de propósito general [AdventuriQ](https://adventuriq.com)
+Y mi pasión es el mundo de la Gamificación y del desarrollo de Vídeojuegos con Backend: [Rescat A la Llull (Unity & AdventuriQ)](https://games.adventuriq.com/rescatalallull/)
+pasión que me ha llevado a crear una plataforma de gamificación de propósito general [AdventuriQ](https://adventuriq.com)
 
 La mayoría de mi trabajo está en bickbucket y lamentablemente son proyectos de Software privados que no puedo migrar a repositorios públicos de github :( 
 
