@@ -1,4 +1,4 @@
-## Hello World 🤔 Mike's in Da House👋
+## Hello World 🤔
 ### Freelance Software Engineer full-stack Angular, Flutter, Python & NodeJS, PHP API Rest Frameworks
 
 Soy Ingeniero de Software profesional desde 1998.⚡
